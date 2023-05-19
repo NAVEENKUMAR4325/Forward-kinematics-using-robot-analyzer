@@ -52,6 +52,9 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 ### SIMULATION 
  
+##6 DOF
+![6dof](https://github.com/NAVEENKUMAR4325/Forward-kinematics-using-robot-analyzer/assets/119479566/77e2ce7d-d091-4f1e-b709-22a4d1e2cf63)
+
  
  
  
