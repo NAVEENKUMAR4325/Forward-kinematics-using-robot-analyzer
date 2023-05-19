@@ -65,50 +65,27 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
  
  
- 
- 
- ### PLOT 
- 
- 6DOF:
- 
- ![plot 6dof 1](https://github.com/NAVEENKUMAR4325/Forward-kinematics-using-robot-analyzer/assets/119479566/edce2465-b9dc-4599-947c-9ce1adf93da8)
- 
- ![plot 6dof 2](https://github.com/NAVEENKUMAR4325/Forward-kinematics-using-robot-analyzer/assets/119479566/c14c6412-e178-4ca4-afc6-70a12f0946b9)
- 
- 
- 4DOF:
- 
- ![plot 4dof 1](https://github.com/NAVEENKUMAR4325/Forward-kinematics-using-robot-analyzer/assets/119479566/9190dcfb-5064-400b-af28-d3b547c41b25)
- 
- ![plot 4dof 2](https://github.com/NAVEENKUMAR4325/Forward-kinematics-using-robot-analyzer/assets/119479566/d1448de6-f5c7-4dbd-8e2f-c29532494e8e)
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
+### PLOT 
  
 
+6DOF:
+ 
+
+![plot 6dof 1](https://github.com/NAVEENKUMAR4325/Forward-kinematics-using-robot-analyzer/assets/119479566/edce2465-b9dc-4599-947c-9ce1adf93da8)
+ 
+
+![plot 6dof 2](https://github.com/NAVEENKUMAR4325/Forward-kinematics-using-robot-analyzer/assets/119479566/c14c6412-e178-4ca4-afc6-70a12f0946b9)
  
  
+4DOF:
+ 
+
+![plot 4dof 1](https://github.com/NAVEENKUMAR4325/Forward-kinematics-using-robot-analyzer/assets/119479566/9190dcfb-5064-400b-af28-d3b547c41b25)
+ 
+
+![plot 4dof 2](https://github.com/NAVEENKUMAR4325/Forward-kinematics-using-robot-analyzer/assets/119479566/d1448de6-f5c7-4dbd-8e2f-c29532494e8e)
 
 
+### RESULTS : 
 
-
-
-
-
-
-
-
-
-
-
-
-### RESULTS :  
+Thus, the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer is analysed and the graph for link cordinates and joint angles is plotted.
